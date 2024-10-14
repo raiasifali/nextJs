@@ -1,4 +1,5 @@
-/my-next-app
+```bash
+/Next app
 ├── /public
 │   └── /images         # Static images
 ├── /src
@@ -21,3 +22,4 @@
 ├── tailwind.config.js  # Tailwind CSS configuration
 ├── tsconfig.json       # TypeScript configuration
 └── next.config.js      # Next.js configuration
+```
